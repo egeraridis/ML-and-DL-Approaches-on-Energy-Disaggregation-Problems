@@ -5,6 +5,9 @@ Effective energy management is one of the most critical issues of our time. Ener
 
 For energy providers, understanding the energy needs in advance helps avoid unnecessary production and potential grid overload due to increased demand. Additionally, users can detect malfunctioning devices through their individual consumption data, which may indicate potential failures.
 
+<img src="https://github.com/user-attachments/assets/f5097d36-d72b-4eb4-8c6b-ee1e77b9ffe4" alt="Description of image" width="200" height="200">
+
+
 ## Problem Statement
 A practical approach to accurately measure the energy consumption of each household appliance involves installing a meter on each device and recording consumption periodically. However, this solution is both costly and challenging to implement, as it requires multiple meters in each household, increasing the likelihood of meter failures over time.
 
