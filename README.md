@@ -5,7 +5,7 @@ Effective energy management is one of the most critical issues of our time. Ener
 
 For energy providers, understanding the energy needs in advance helps avoid unnecessary production and potential grid overload due to increased demand. Additionally, users can detect malfunctioning devices through their individual consumption data, which may indicate potential failures.
 
-<img src="https://github.com/user-attachments/assets/f5097d36-d72b-4eb4-8c6b-ee1e77b9ffe4" alt="Description of image" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/f5097d36-d72b-4eb4-8c6b-ee1e77b9ffe4" alt="Description of image" width="1100" height="300">
 
 
 ## Problem Statement
