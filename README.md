@@ -56,4 +56,4 @@ The data is transmitted at a frequency determined by the levels of active power.
 
 
 <img src="https://github.com/user-attachments/assets/d2c40ddd-ca2f-4c07-975a-a66d0452c61f" alt="Description of image" width="200" height="200">
-<img src="https://github.com/user-attachments/assets/436e1479-b411-44b8-b237-7eb6003e7ced" alt="Desc' width="300" height="300">
+<img src="https://github.com/user-attachments/assets/436e1479-b411-44b8-b237-7eb6003e7ced" alt="Desc' width="200" height="200">
