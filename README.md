@@ -54,5 +54,5 @@ The data is transmitted at a frequency determined by the levels of active power.
 
 *Note: PySpark was used for better scalability for future work purposes mostly.
 
-
+![Screenshot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3APython-logo-notext.svg&psig=AOvVaw0YgRSgHXBRmcr1QDmXbmcB&ust=1722223099707000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjZ15PjyIcDFQAAAAAdAAAAABAE)
 
