@@ -1,4 +1,4 @@
-# Energy Disaggregation using Machine Learning Approaches
+# Energy Disaggregation using Machine & Deep Learning Approaches
 
 ## Overview
 Effective energy management is one of the most critical issues of our time. Energy production remains a polluting and costly process, with approximately 80% still provided by non-renewable sources, even in developed countries. By knowing how much energy each household appliance consumes individually, consumers can save money by reducing the use of energy-intensive devices and simultaneously reduce their carbon footprint.
